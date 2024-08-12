@@ -15,19 +15,7 @@ The **File Scanner and Copier** is a Python application designed to scan a speci
 
 ## Installation
 
-### Using the Installer
-
-1. **Download the Installer**
-
-   Download the installer executable from the [Releases](https://github.com/Parth4123/File-Scanner-And-Copier/releases) page on GitHub.
-
-2. **Run the Installer**
-
-   - **Windows**: Double-click the downloaded `.exe` file and follow the on-screen instructions to install the application.
-
-3. **Launch the Application**
-
-   After installation, you can start the application from your application menu or desktop shortcut.
+Direct Download the .exe file and run it.
 
 ### Manual Installation For Other OS (Optional)
 
