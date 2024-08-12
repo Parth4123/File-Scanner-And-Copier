@@ -34,7 +34,7 @@ The **File Scanner and Copier** is a Python application designed to scan a speci
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Parth4123/File-Scanner-And-Copier.git
+   git clone https://github.com/Parth4123/File-Scanner-And-Copier
    cd file-scanner-copier
 
 2. **Install Dependencies**
